@@ -52,3 +52,6 @@ This project includes:
 
 ### connect local to remote repo
 - [connect up local clone to remote repo](https://www.google.com/search?q=how+to+push+a+cloned+repo+to+a+new+repo&oq=how+to+push+a+cloned+repo+to+a+new+repo&aqs=chrome..69i57j0i22i30j0i390l4j69i64.9824j0j7&sourceid=chrome&ie=UTF-8)
+
+### fix error refusing to merge unrelated histories
+- [refusing to merge unrelated histories](https://www.google.com/search?q=refusing+to+merge+unrelated+histories&oq=refusing+to+merge+unrelated+histories&aqs=chrome.0.0i512l2j0i20i263i512j0i512l5j0i390l2.5854j0j7&sourceid=chrome&ie=UTF-8)
