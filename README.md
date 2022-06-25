@@ -46,5 +46,9 @@ This project includes:
 # Modifications made after cloning repository
 
 ## References
+### Boiler plate
 - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&ab_channel=freeCodeCamp.org)
 - [justdjango/django_project_boilerplate](https://github.com/justdjango/django_project_boilerplate)
+
+### connect local to remote repo
+- [connect up local clone to remote repo](https://www.google.com/search?q=how+to+push+a+cloned+repo+to+a+new+repo&oq=how+to+push+a+cloned+repo+to+a+new+repo&aqs=chrome..69i57j0i22i30j0i390l4j69i64.9824j0j7&sourceid=chrome&ie=UTF-8)
